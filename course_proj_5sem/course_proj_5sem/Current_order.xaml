@@ -1,0 +1,22 @@
+﻿<Window x:Class="course_proj_5sem.Current_order"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:course_proj_5sem"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" 
+        ResizeMode="NoResize"
+        Background="#FFE2DADA"
+           xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="Current_order" Height="356" Width="390" Loaded="Window_Loaded">
+
+    <Grid>
+        <Label Content="Заказано :" FontSize="18" HorizontalAlignment="Left" Height="38" Margin="32,30,0,0" VerticalAlignment="Top" Width="154"/>
+        <ListBox Name="l_books" HorizontalAlignment="Left" Height="105" Margin="32,73,0,0" VerticalAlignment="Top" Width="298"/>
+        <Label Content="Продавец : " FontSize="16" HorizontalAlignment="Left" Height="30" Margin="10,199,0,0" VerticalAlignment="Top" Width="138"/>
+        <Label Name="na" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Height="31" Margin="43,234,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label Name="f_na"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Height="31" Margin="167,234,0,0" VerticalAlignment="Top" Width="126"/>
+
+    </Grid>
+</Window>

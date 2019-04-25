@@ -1,0 +1,82 @@
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\course_proj_5sem.csprojAssemblyReference.cache
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\log_reg.g.cs
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\App.g.cs
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\course_proj_5sem_MarkupCompile.cache
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\course_proj_5sem_MarkupCompile.lref
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\course_proj_5sem.exe.config
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\course_proj_5sem.exe
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\course_proj_5sem.pdb
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\log_reg.baml
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\course_proj_5sem.g.resources
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\course_proj_5sem.Properties.Resources.resources
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\course_proj_5sem.csproj.GenerateResource.cache
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\course_proj_5sem.csproj.CoreCompileInputs.cache
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\course_proj_5sem.csproj.CopyComplete
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\course_proj_5sem.exe
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\course_proj_5sem.pdb
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\MainWindow.g.cs
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\Settings.g.cs
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\MainWindow.baml
+E:\курсовые\5 сем\course_proj_5sem\course_proj_5sem\obj\Debug\Settings.baml
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\course_proj_5sem.exe.config
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\course_proj_5sem.exe
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\course_proj_5sem.pdb
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\course_proj_5sem.csprojAssemblyReference.cache
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\log_reg.g.cs
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\MainWindow.g.cs
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\Settings.g.cs
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\App.g.cs
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\course_proj_5sem_MarkupCompile.cache
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\course_proj_5sem_MarkupCompile.lref
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\log_reg.baml
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\MainWindow.baml
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\Settings.baml
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\course_proj_5sem.g.resources
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\course_proj_5sem.Properties.Resources.resources
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\course_proj_5sem.csproj.GenerateResource.cache
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\course_proj_5sem.csproj.CoreCompileInputs.cache
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\course_proj_5sem.csproj.CopyComplete
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\course_proj_5sem.exe
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\course_proj_5sem.pdb
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\add_book.g.cs
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\add_book.baml
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\Books.g.cs
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\Books.baml
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\Current_book.g.cs
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\Current_book.baml
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\Orders.g.cs
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\Orders.baml
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\Current_order.g.cs
+E:\курсовые\5 сем\course_proj_5sem _forseleer\course_proj_5sem\obj\Debug\Current_order.baml

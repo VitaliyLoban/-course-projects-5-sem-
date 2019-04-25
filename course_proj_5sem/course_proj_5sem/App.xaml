@@ -1,0 +1,9 @@
+﻿<Application x:Class="course_proj_5sem.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:course_proj_5sem"
+             StartupUri="log_reg.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

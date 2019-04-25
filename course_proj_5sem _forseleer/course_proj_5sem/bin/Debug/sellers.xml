@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfSeller xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Seller>
+    <Name>Evgeniy</Name>
+    <F_name>Bogdanovich</F_name>
+    <Login>admin</Login>
+    <Pass>admin</Pass>
+    <Phone>+375 (21) 312-32-14</Phone>
+  </Seller>
+  <Seller>
+    <Name>Андрей</Name>
+    <F_name>Рабцевич</F_name>
+    <Login>user1</Login>
+    <Pass>user</Pass>
+    <Phone>+375 (32) 423-42-34</Phone>
+  </Seller>
+</ArrayOfSeller>
